@@ -1,8 +1,9 @@
 # bigdataprojects
 
-Project related to SimpliLearn courses 311 NYC Service calls
-## Dataset file is 311_Service_Requests_for_2009.csv. File size is 876 MB.
+## Project related to SimpliLearn courses 311 NYC Service calls
+### 
 ### Steps followed
+   * Dataset file is 311_Service_Requests_for_2009.csv. File size is 876 MB.
    * Created a subset of the large file by removing umwanted data variables. After whcih file size was 149 MB.
    * Use this process file for the further analysis.
    
