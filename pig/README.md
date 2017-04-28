@@ -19,6 +19,6 @@ Data set in xls format from the URL :
    * Above python code converts *.3 files *.3.csv files
    * Upload the *.csv.3.csv files to cloudlab in insurance folder
    * Execute pig scripts on these files 
-     * Refer insurance_project_report.pdf file PigLatin Scripts for each goals. 
+     * Refer insurance_project_report.pdf & insurance_project_sourcecode.pdf files for Report and PigLatin Scripts for each goals. 
 
 
